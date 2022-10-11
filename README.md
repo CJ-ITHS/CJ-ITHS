@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://github.com/CJ-ITHS/CJ-ITHS/Hello.gif)
 <!--
 **CJ-ITHS/CJ-ITHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
