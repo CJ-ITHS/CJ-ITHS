@@ -1,4 +1,4 @@
-![](https://github.com/CJ-ITHS/CJ-ITHS/Hello.gif)
+![](https://github.com/CJ-ITHS/CJ-ITHS/blob/58b45b17557d02dfacee5b93f445523a773e9ac4/hello.gif)
 <!--
 **CJ-ITHS/CJ-ITHS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
